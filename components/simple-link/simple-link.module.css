@@ -1,0 +1,6 @@
+.root {
+  color: black;
+  text-transform: uppercase;
+  border: 1px blue solid;
+  margin-block: 8px;
+}
